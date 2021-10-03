@@ -19,7 +19,7 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/nijmehar16)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nij16)
 
-<img align='right' src="https://i.gifer.com/Ry6p.gif" width="280">
+<img align='right' src="https://wifflegif.com/gifs/666146-black-and-white-programming-gif" width="280">
 
 ## ⚡ Technologies
 
