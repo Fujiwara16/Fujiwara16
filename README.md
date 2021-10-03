@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...android applications
 - 📫 How to reach me ... nijmehar16@gmail.com
 
-# Hi, I am NIJ! Great to see you here! <img src="https://raw.githubusercontent.com/K1RA-16/K1RA/main/src/wave.gif" width="30px">
+# Hi, I am NIJ! Great to see you here! <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="30px">
 
 I am Nij Mehar, currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
