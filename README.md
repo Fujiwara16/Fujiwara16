@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ...android applications
 - 📫 How to reach me ... nijmehar16@gmail.com
 
-# Hi, I am NIJ! Great to see you here! <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="30px">
+# Hi, I am NIJ! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
 
-I am Nij Mehar, currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbagh Educational Institute](https://www.dei.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:pranaygupta.aec@gmail.com)
+[![Email Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhawkemedia.com%2Finsights%2Femail-animation%2F&psig=AOvVaw2TtszUwyiYKL1qDAzdiPxR&ust=1633340591070000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDilID6rfMCFQAAAAAdAAAAABAJ)](mailto:nijmehar16@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/thepranaygupta/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thepranaygupta)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pranayguptaa)
