@@ -8,7 +8,7 @@
 
 I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbagh Educational Institute](https://www.dei.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Email Badge](https://cdn-aonfa.nitrocdn.com/tajHzjeZJUHiWEpwdnLMRomLAgtzGczy/assets/static/optimized/rev-a864b45/wp-content/uploads/Email-Gif.gif)](mailto:nijmehar16@gmail.com)
+[![Email Badge]("https://cdn-aonfa.nitrocdn.com/tajHzjeZJUHiWEpwdnLMRomLAgtzGczy/assets/static/optimized/rev-a864b45/wp-content/uploads/Email-Gif.gif") width="30px"(mailto:nijmehar16@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/thepranaygupta/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thepranaygupta)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pranayguptaa)
