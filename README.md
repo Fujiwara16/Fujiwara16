@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @K1RA-16
-- 👀 I’m interested in ... android dev, web dev, c++ programming
-- 🌱 I’m currently learning ... kotlin, c++, c, nodejs, mongodb, firebase, java
-- 💞️ I’m looking to collaborate on ...android applications
-- 📫 How to reach me ... nijmehar16@gmail.com
 
 # Hi, I am NIJ! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
 
