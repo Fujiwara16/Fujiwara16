@@ -7,7 +7,14 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)](https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guy.whocodes/)](https://instagram.com/guy.whocodes)
 
-[![Nij's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=K1RA-16&theme=xcode)](https://github.com/K1RA-16)
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0?si=a5f90f6dac1a453b)
+
+---
+
+<img align="right" src="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/10/Klio-Blog2.gif"/>
 
 ## 👨🏻‍💻 Coding Profiles
 
