@@ -15,7 +15,7 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=6ecgmt4zopn1enw6au2y3lpwp&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
----
+-----
 
 
 
