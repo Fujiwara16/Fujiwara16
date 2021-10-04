@@ -43,7 +43,7 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=K1RA-16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1RA-16&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
