@@ -4,7 +4,7 @@
 I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbagh Educational Institute](https://www.dei.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nijmehar16@gmail.com)](mailto:nijmehar16@gmail.com)
-[![Linkedin Badge](https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif&link=https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)](https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)](https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guy.whocodes/)](https://instagram.com/guy.whocodes)
 
 
