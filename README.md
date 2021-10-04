@@ -43,11 +43,14 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 <table>
 <tr>
 <td>
+  <img src="![Kira's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1RA-16&show_icons=true&theme=radical) "/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K1RA-16&theme=tokyonight" />
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=K1RA-16&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
+
+
 
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
