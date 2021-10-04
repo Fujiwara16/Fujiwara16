@@ -39,7 +39,7 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
 ## 📈 Stats
-| <a href="https://github.com/K1RA-16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K1RA-16&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Kira's github stats" /></a> | <a href="https://github.com/K1RA-16/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=K1RA-16&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></a> |
+| <a href="https://github.com/K1RA-16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K1RA-16&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Kira's github stats" /></a> | <a href="https://github.com/K1RA-16/github-readme-stats"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=K1RA-16&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K1RA-16&theme=tokyonight" />
