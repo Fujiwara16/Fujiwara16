@@ -9,7 +9,10 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### Spotify Playing 🎧
+
+
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=6ecgmt4zopn1enw6au2y3lpwp&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ---
