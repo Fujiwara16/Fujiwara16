@@ -1,5 +1,5 @@
 
-# Hi, I am NIJ! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
+# Hi, I am NIJ! Great to see you here! 
 
 I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbagh Educational Institute](https://www.dei.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
