@@ -7,8 +7,8 @@ I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbag
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)](https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guy.whocodes/)](https://instagram.com/guy.whocodes)
 
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ### Spotify Playing 🎧
 
