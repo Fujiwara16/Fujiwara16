@@ -1,76 +1,39 @@
+<h1 align="center">Hi 👋, I'm Nij Mehar</h1>
+<h3 align="center">A passionate app and web developer from India.</h3>
 
-# Hi, I am NIJ! Great to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ra-16&label=Profile%20views&color=0e75b6&style=flat" alt="k1ra-16" /> </p>
 
-I am Nij Mehar, currently pursuing my B.Tech degree in Electrical from [Dayalbagh Educational Institute](https://www.dei.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1ra-16" alt="k1ra-16" /></a> </p>
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nijmehar16@gmail.com)](mailto:nijmehar16@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)](https://www.linkedin.com/in/nij-mehar-grover-aa711a213/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guy.whocodes/)](https://instagram.com/guy.whocodes)
+- 🔭 I’m currently working on [A smart erickshaw payment app](Private)
 
-<!-- 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
+- 🌱 I’m currently learning **React**
 
-### Spotify Playing 🎧
+- 👯 I’m looking to collaborate on **Open source projects**
 
+- 👨‍💻 All of my projects are available at [https://portfoliokira.netlify.app/](https://portfoliokira.netlify.app/)
 
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=6ecgmt4zopn1enw6au2y3lpwp&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+- 💬 Ask me about **Flutter, React, Competitive programming**
 
------
+- 📫 How to reach me **Nijmehar16@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IguHA5GRvGkmKpIeGR1N16lUf0Ki3rnd/view?usp=drivesdk](https://drive.google.com/file/d/1IguHA5GRvGkmKpIeGR1N16lUf0Ki3rnd/view?usp=drivesdk)
 
+- ⚡ Fun fact **I am a petrolhead**
 
-## 👨🏻‍💻 Coding Profiles
-
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/nijmehar16)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nij16)
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-## ⚡ Technologies
-
-### Language
-
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Tools:
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
-
-<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
-
-## 📈 Stats
-
-
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=K1RA-16&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=K1RA-16&theme=tokyonight" />
-	
-  <!--<img width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutikab12&layout=compact&text_color=daf7dc&bg_color=151515" />-->
-  
-
-</p>
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=K1RA-16&show_icons=true&locale=en&layout=compact&theme=tokyonight" />	
-  
-  
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/takumi_0016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takumi_0016" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nijmehar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nijmehar" height="30" width="40" /></a>
+<a href="https://instagram.com/guy.whocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guy.whocodes" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nij16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nij16" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nijmehar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nijmehar16" height="30" width="40" /></a>
 </p>
 
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ra-16&show_icons=true&locale=en" alt="k1ra-16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ra-16&" alt="k1ra-16" /></p>
+
