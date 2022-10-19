@@ -36,3 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ra-16&" alt="k1ra-16" /></p>
 
+[![<Nijmehar>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<nijmehar16>&theme=<THEME>)](https://github.com/JeremyTsaii/leetcode-stats)
