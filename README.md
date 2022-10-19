@@ -36,4 +36,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=K1RA-16&theme=tokyonight_duo&hide_border=true&border_radius=22)](https://git.io/streak-stats)
 
-[![nijmehar16's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nijmehar16&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
+[![nijmehar16's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nijmehar16&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
