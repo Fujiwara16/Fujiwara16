@@ -34,6 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ra-16&show_icons=true&locale=en" alt="k1ra-16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ra-16&" alt="k1ra-16" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=K1RA-16&theme=tokyonight_duo&hide_border=true&border_radius=22)](https://git.io/streak-stats)
 
 [![nijmehar16's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nijmehar16&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
