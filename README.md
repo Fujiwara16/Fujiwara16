@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [verve vision](https://github.com/K1RA-16/Verve-Vision)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SwiftUi**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
