@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliokira.netlify.app/](https://portfoliokira.netlify.app/)
 
-- 💬 Ask me about **Flutter, iOS, Competitive programming**
+- 💬 Ask me about **Flutter, iOS, Backend**
 
 - 📫 How to reach me **Nijmehar16@gmail.com**
 
