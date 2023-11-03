@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Nijmehar16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ovEsS4dXw1Qe5QVPbjdoWhQWR2qJHfep/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EBMCICCKKiJewIF9aVVmggS-72ExrOks/view?usp=sharing)
 
 - ⚡ Fun fact **I am a petrolhead**
 
