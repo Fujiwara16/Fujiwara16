@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my experiences are available at [https://portfoliokira.netlify.app/](https://portfoliokira.netlify.app/)
+- 👨‍💻 All of my experiences are available in my [Portfolio](https://portfoliokira.netlify.app/)
 
 - 💬 Ask me about **Flutter, iOS, Backend, DevOps, AWS**
 
