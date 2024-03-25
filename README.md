@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Flutter, iOS, Backend, DevOps, AWS**
 
-- 🔖 You can read my articles on engineering problems and their solutions at [Medium](https://medium.com/@nijmehar16)
+- 🔖 You can read my articles on engineering problems and their solutions on [Medium](https://medium.com/@nijmehar16)
 
 - 📫 How to reach me **Nijmehar16@gmail.com**
 
