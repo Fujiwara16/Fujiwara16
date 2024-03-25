@@ -4,15 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ra-16&label=Profile%20views&color=0e75b6&style=flat" alt="k1ra-16" /> </p>
 
 
-- 🔭 I’m currently working on [verve vision](https://github.com/Fujiwara16/Verve-Vision)
+- 🔭 I’m currently working on usecase expansion for an AI assisted whatsapp chatbot.
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://portfoliokira.netlify.app/](https://portfoliokira.netlify.app/)
 
-- 💬 Ask me about **Flutter, iOS, Backend**
+- 💬 Ask me about **Flutter, iOS, Backend, DevOps, AWS**
+
+- 🔖 My articles on engineering problems and their solutions [Medium](https://medium.com/@nijmehar16)
 
 - 📫 How to reach me **Nijmehar16@gmail.com**
 
