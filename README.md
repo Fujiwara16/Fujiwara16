@@ -3,24 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ra-16&label=Profile%20views&color=0e75b6&style=flat" alt="k1ra-16" /> </p>
 
+- 🔭 I’m currently expanding use cases for an **AI-assisted WhatsApp chatbot**.
 
-- 🔭 I’m currently working on usecase expansion for an AI assisted whatsapp chatbot.
+- 🌱 I’m learning **DevOps** and exploring cloud automation.
 
-- 🌱 I’m currently learning **DevOps**
+- 👯 I’m open to collaborating on **open-source projects**.
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👨‍💻 Check out all my experiences and projects on my [Portfolio](https://about-me.octane-finder.com/).
 
-- 👨‍💻 All of my experiences are available in my [Portfolio](https://portfoliokira.netlify.app/)
+- 💬 Ask me about **Flutter, iOS, Backend, DevOps, AWS**.
 
-- 💬 Ask me about **Flutter, iOS, Backend, DevOps, AWS**
+- 🔖 Read my technical articles and solutions on [Medium](https://medium.com/@nijmehar16).
 
-- 🔖 You can read my articles on engineering problems and their solutions on [Medium](https://medium.com/@nijmehar16)
+- 📫 Reach me at **nijmehar16@gmail.com**.
 
-- 📫 How to reach me **Nijmehar16@gmail.com**
+- 📄 View my professional experience on my [Resume](https://drive.google.com/file/d/1pxQu6mR_Y2Y2yqZKXBhJlwOaBy4a5q8x/view?usp=sharing).
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OkfZnF7xljCTLYmGcKNuYcrkyPzfKJXG/view?usp=sharing)
+- ⚡ Fun fact: **I’m a petrolhead and love working on my project car**.
 
-- ⚡ Fun fact **I am a petrolhead**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
