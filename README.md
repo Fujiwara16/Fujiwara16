@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ra-16&label=Profile%20views&color=0e75b6&style=flat" alt="k1ra-16" /> </p>
 
-- 🔭 I’m currently expanding use cases for an **AI-assisted WhatsApp chatbot**.
-
-- 🌱 I’m learning **DevOps** and exploring cloud automation.
-
 - 👯 I’m open to collaborating on **open-source projects**.
 
-- 👨‍💻 Check out all my experiences and projects on my [Portfolio](https://about-me.octane-finder.com/).
-
-- 💬 Ask me about **Flutter, iOS, Backend, DevOps, AWS**.
+- 💬 Ask me about **Backend, DevOps, AWS**.
 
 - 🔖 Read my technical articles and solutions on [Medium](https://medium.com/@nijmehar16).
 
